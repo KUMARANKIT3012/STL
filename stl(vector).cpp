@@ -2,7 +2,7 @@
 
 // VECTOR:
 // Example 1:
-/*
+
 #include<iostream>
 #include<vector> // used to create vector
 using namespace std;
@@ -28,11 +28,11 @@ int main(){
     cout<<"back"<<vec.back()<<endl;
     return 0;
 }   
-*/
+
 
 
 // Example 2:
-/*
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -47,12 +47,12 @@ int main(){
     }
     return 0;
 }
-*/
+
 
 
 // FEW MORE FUNCTIONS OF VECTOR:
 // 1)erase:
-/*
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -66,12 +66,12 @@ int main(){
     }
     return 0;
 }
-*/
+
 
 // 2) Insert function:
 // 3) clear:
 // 4) empty:
-/*
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -85,11 +85,11 @@ int main(){
     cout<<" is empty : "<<vec.empty()<<endl;
     return 0;
 }
-*/
+
 
 
 // VECTOR ( ITERATOR ):
-/*
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -99,11 +99,11 @@ int main(){
     cout<<"vec.end : "<<*(vec.end())<<endl; // vector end
     return 0;
 }
-*/
+
 
 // VECTOR LOOPS:
 // FORWARD LOOP:
-/*
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -115,7 +115,7 @@ for(it=vec.begin(); it!=vec.end(); it++){
 }
 return 0;
 }
-*/
+
 
 //REVERSE LOOP:
 // 1) rbegin 2) rend
@@ -130,4 +130,5 @@ int main(){
     }
     return 0;
 }
+
 
