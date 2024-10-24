@@ -1,6 +1,6 @@
                             // LIST
 // 1) push_back and push_front:
-/*
+
 #include<iostream>
 #include<vector>
 #include<list>
@@ -18,13 +18,13 @@ int main(){
     }
     return 0;
 }
-*/
+
 
 // output= 4 3 2 1 
 
 
 // 2) emplace_back and emplace_front:
-/*
+
 #include<iostream>
 #include<vector>
 #include<list>
@@ -42,14 +42,14 @@ int main(){
     }
     return 0;
 }
-*/
+
 
 // output= 4 3 2 1 
 
 
 
 // 3)pop_back(),pop_front():
-/*
+
 #include<iostream>
 #include<vector>
 #include<list>
@@ -70,7 +70,7 @@ int main(){
     }
     return 0;
 }
-*/
+
 
 // output = 3 1
 
