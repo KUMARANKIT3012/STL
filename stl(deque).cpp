@@ -1,5 +1,5 @@
 // functions are similar to list:
-/*
+
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -23,4 +23,3 @@ int main(){
 // output = 7 1 2 3 4 5 8
 //          3 
 
-*/
