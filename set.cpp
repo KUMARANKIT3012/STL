@@ -1,5 +1,5 @@
 //example 2:
-/*
+
 #include<iostream>
 #include<algorithm>
 #include<set>
@@ -26,7 +26,7 @@ int main(){
 
 //exapmle 2:
 // lower bound and upper bound:
-/*
+
 #include<iostream>
 #include<algorithm>
 #include<set>
