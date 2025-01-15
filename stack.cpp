@@ -1,6 +1,6 @@
-// stack
+                                         // stack
 // example 1:
-/*
+
 #include<iostream>
 #include<stack>
 #include<algorithm>
@@ -18,11 +18,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
 
 
-// Swap function
-/*
+
+                                       // Swap function
+
 #include<iostream>
 #include<stack>
 #include<algorithm>
