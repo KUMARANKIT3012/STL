@@ -1,6 +1,6 @@
-// priority queue
+                   // priority queue
 // example 1:
-/*
+
 #include<iostream>
 #include<queue>
 #include<algorithm>
@@ -17,12 +17,12 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 // exapmle 2:
 // reverse order
-/*
+
 #include<iostream>
 #include<queue>
 #include<algorithm>
@@ -38,5 +38,4 @@ int main(){
     }
     cout<<endl;
     return 0;
-} 
-*/   
+}  
