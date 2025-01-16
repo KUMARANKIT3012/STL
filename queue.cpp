@@ -1,5 +1,5 @@
-            // QUEUE
-/*            
+                         // QUEUE
+
 #include<iostream>
 #include<queue>
 #include<algorithm>
@@ -16,4 +16,3 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
