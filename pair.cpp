@@ -1,5 +1,5 @@
 // pair
-/*
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -9,10 +9,10 @@ int main(){
     cout<<p.second<<endl;
     return 0;
 }
-*/
+
 
 //pair of pairs
-/*
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -23,7 +23,7 @@ int main(){
     cout<<p.second.second<<endl; // 3
     return 0;
 }
-*/
+
 
 
 // vector of pair
