@@ -1,5 +1,5 @@
-// maps:
-/*
+                         // maps:
+
 #include<iostream>
 #include<algorithm>
 #include<map>
@@ -29,13 +29,13 @@ int main(){
     }
     return 0;
 }
-*/
+
 
                 
 
                 // other type of maps:
                 // 1) multimap:
-/*                
+             
 #include<iostream>
 #include<algorithm>
 #include<map>
@@ -56,11 +56,11 @@ int main(){
     }
     return 0;
 }
-*/
+
 
                   //2) unordered map
                   // note most used in DSA:
-/*                  
+               
 #include<iostream>
 #include<algorithm>
 #include<unordered_map>
