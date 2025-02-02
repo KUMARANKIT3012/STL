@@ -1,7 +1,7 @@
                                     // Algorithm
                 //1)SORTING                    
 // EXAMPLE 1:
-/*
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -16,11 +16,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //EXAMPLE 2: FOR VECTOR
-/*
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -35,11 +35,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 // EXAMPLE:3 --> SORT IN DESCENDING ORDER
-/*
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -54,11 +54,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 // EXAMPLE:4 --> SORT IN (pairs)
-/*
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -73,10 +73,10 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 // EXAMPLE 4: CUSTOM COMPARATOR(PAIRS):
-/*
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -97,11 +97,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
                  //2) REVERSE: 
-/*                 
+             
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -116,10 +116,10 @@ int main(){
     cout<<endl;
     return 0;
 }                 
-*/
+
 
                  //3)NEXT PERMUTATION:
-/*                 
+             
 #include<iostream>
 #include<vector>
 #include<string>
@@ -132,11 +132,11 @@ int main(){
     cout<<s<<endl;
     return 0;
 }
-*/
+
 
 
                  // 4)swap, min, max:
-/*                 
+                
 #include<iostream>
 #include<vector>
 #include<string>
@@ -151,11 +151,11 @@ int main(){
     cout<<"a= "<<a<<endl;
     return 0;
 }
-*/
+
 
 
                 // 5) max and min elements:
-/*                
+              
  #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -167,11 +167,11 @@ int main(){
     // cout<<*(min_element(vec.begin(),vec.end()))<<endl;
     return 0;
 }               
-*/
+
 
 
                 // 6) BINARY SEARCH:
-/*                
+               
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -183,4 +183,3 @@ int main(){
     
     return 0;
 }
-*/
